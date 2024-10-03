@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // Sample data
+    
         List<Book> books = new ArrayList<>();
         books.add(new Book("Introduction to Algorithms", "Thomas H.", "97", "Educational"));
         books.add(new Book("Atomic Habit", "James Clear", "978", "Test"));
